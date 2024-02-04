@@ -1,0 +1,47 @@
+body {
+	background-image: url(https://img.freepik.com/free-vector/realistic-paper-style-abstract-ornamental-background_79603-2436.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	flex-wrap: wrap;
+	background-size: cover;
+}
+
+#Sofia {
+	width: 250px;
+	height: 350px;
+	margin: 15px;
+}
+
+#Amber {
+	width: 250px;
+	height: 350px;
+	margin: 15px;
+}
+
+#Clover {
+	width: 250px;
+	height: 350px;
+	margin: 15px;
+}
+
+#James {
+	width: 250px;
+	height: 350px;
+	margin: 15px;
+}
+
+#Cedric {
+	width: 250px;
+	height: 350px;
+	margin: 15px;
+}
+
+.row {
+	font-family: fantasy;
+	font-size: 25px;
+}
+
+
+
+
+
